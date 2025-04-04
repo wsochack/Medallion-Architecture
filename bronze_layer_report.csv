@@ -1,0 +1,120 @@
+Tabela,Typ analizy,Wartość
+badges,Duplikaty,187
+posts,Duplikaty,0
+comments,Duplikaty,0
+votes,Duplikaty,89832
+post_history,Duplikaty,0
+post_links,Duplikaty,0
+users,Duplikaty,0
+tags,Duplikaty,0
+posts,Braki (_AcceptedAnswerId),51117
+posts,Braki (_AnswerCount),42097
+posts,Braki (_ClosedDate),62896
+posts,Braki (_CommunityOwnedDate),64918
+posts,Braki (_FavoriteCount),60103
+posts,Braki (_LastEditDate),23512
+posts,Braki (_LastEditorDisplayName),64036
+posts,Braki (_LastEditorUserId),24214
+posts,Braki (_OwnerDisplayName),62865
+posts,Braki (_OwnerUserId),1953
+posts,Braki (_ParentId),27373
+posts,Braki (_Tags),42097
+posts,Braki (_Title),42097
+posts,Braki (_ViewCount),42097
+comments,Braki (_UserDisplayName),99352
+comments,Braki (_UserId),3842
+votes,Braki (_BountyAmount),687589
+votes,Braki (_UserId),688086
+post_history,Braki (_Comment),119456
+post_history,Braki (_ContentLicense),26687
+post_history,Braki (_Text),32117
+post_history,Braki (_UserDisplayName),240210
+post_history,Braki (_UserId),30047
+users,Braki (_AboutMe),51043
+users,Braki (_AccountId),2
+users,Braki (_Location),49126
+users,Braki (_WebsiteUrl),61224
+tags,Braki (_ExcerptPostId),2851
+tags,Braki (_WikiPostId),2851
+badges,min__Class,1
+badges,min__Id,1
+badges,min__UserId,1
+badges,max__Class,3
+badges,max__Id,188551
+badges,max__UserId,103791
+posts,min__AcceptedAnswerId,21
+posts,min__AnswerCount,0
+posts,min__CommentCount,0
+posts,min__FavoriteCount,0
+posts,min__Id,1
+posts,min__LastEditorUserId,-1
+posts,min__OwnerUserId,-1
+posts,min__ParentId,1
+posts,min__PostTypeId,1
+posts,min__Score,-24
+posts,min__ViewCount,9
+posts,max__AcceptedAnswerId,122259
+posts,max__AnswerCount,19
+posts,max__CommentCount,45
+posts,max__FavoriteCount,1
+posts,max__Id,122259
+posts,max__LastEditorUserId,103733
+posts,max__OwnerUserId,103733
+posts,max__ParentId,122255
+posts,max__PostTypeId,7
+posts,max__Score,327
+posts,max__ViewCount,1532580
+comments,min__Id,7
+comments,min__PostId,2
+comments,min__Score,0
+comments,min__UserId,-1
+comments,max__Id,217512
+comments,max__PostId,122257
+comments,max__Score,182
+comments,max__UserId,103733
+votes,min__BountyAmount,25
+votes,min__Id,1
+votes,min__PostId,1
+votes,min__UserId,-1
+votes,min__VoteTypeId,1
+votes,max__BountyAmount,500
+votes,max__Id,794163
+votes,max__PostId,122259
+votes,max__UserId,102751
+votes,max__VoteTypeId,16
+post_history,min__Id,1
+post_history,min__PostHistoryTypeId,1
+post_history,min__PostId,1
+post_history,min__UserId,-1
+post_history,max__Id,482277
+post_history,max__PostHistoryTypeId,53
+post_history,max__PostId,122259
+post_history,max__UserId,103733
+post_links,min__Id,948
+post_links,min__LinkTypeId,1
+post_links,min__PostId,19
+post_links,min__RelatedPostId,11
+post_links,max__Id,2281399
+post_links,max__LinkTypeId,3
+post_links,max__PostId,122228
+post_links,max__RelatedPostId,121990
+users,min__AccountId,-1
+users,min__DownVotes,0
+users,min__Id,-1
+users,min__Reputation,1
+users,min__UpVotes,0
+users,min__Views,0
+users,max__AccountId,30669344
+users,max__DownVotes,12940
+users,max__Id,103794
+users,max__Reputation,134881
+users,max__UpVotes,20042
+users,max__Views,36109
+tags,min__Count,1
+tags,min__ExcerptPostId,41
+tags,min__Id,1
+tags,min__WikiPostId,40
+tags,max__Count,8372
+tags,max__ExcerptPostId,122242
+tags,max__Id,9391
+tags,max__WikiPostId,122241
